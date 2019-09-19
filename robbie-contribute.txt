@@ -1,0 +1,5 @@
+I'm interested in joining this project because I think it has great potential.
+We are doing this idea for our Software business class and think it has great application for Database modeling as well.
+We want to be able to make a marketing application that's organized like a store but totally controlled by the user.
+The idea is very simple and I think fulfills a need in today's custom marketplace.  
+Technically I think we can have people login with their facebook or google accounts, and then tie them directly into this market with their friends and mutual relationships.
